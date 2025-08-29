@@ -157,6 +157,8 @@
   )
 )
 
+#let realhats-list = realhats-dict.keys()
+
 // Seed random number generator using the current date
 #let seed-bytes = sha1(datetime.today().display())
 #let seed = int.from-bytes(seed-bytes.slice(0, 8))
