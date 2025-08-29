@@ -3,6 +3,6 @@
 Before and after **realhats**:
 
 <div style="display: flex; gap: 10px;">
-  <img src="example-1.png" alt="Without realhats" width="50%;">
-  <img src="example-2.png" alt="With realhats" width="50%;">
+  <img src="example-1.png" alt="Without realhats" width="48%;">
+  <img src="example-2.png" alt="With realhats" width="48%;">
 </div>
